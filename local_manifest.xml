@@ -7,7 +7,7 @@
      fetch="https://github.com/ipin22" />
     
             <!-- Sync trees -->
-        <project path="device/oppo/CPH2083" name="dt_test" remote="user" revision="los18.1" />
-        <project path="vendor/oppo/CPH2083" name="vt_test" remote="user" revision="los18.1" />
+        <project path="device/oppo/CPH2083" name="d_oppo_A12" remote="user" revision="los16" />
+        <project path="vendor/oppo/CPH2083" name="v_oppo_A12" remote="user" revision="los16" />
      
 </manifest>
